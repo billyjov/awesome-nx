@@ -28,13 +28,28 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Articles 
 
+- [Official Nrwl Nx Blog](https://blog.nrwl.io/)
+
 ## Videos
+
+- [Official Nrwl Nx Youtube channel](https://www.youtube.com/channel/UCF8luR7ORJTCwSNA9yZksCw)
+
 
 ## Plugins 
 
+- [Nx Community Plugins](https://nx.dev/nx-community)
+
 ## Open Source Apps
+
+- [Official examples repo for nx workspace](https://github.com/nrwl/nx-examples)
+- [Exemplary real world application built with Angular 10+, NgRx 10+, nrwl/nx 10+](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app)
 
 ## Books
 
+- [Enterprise Monorepo Angular Patterns](https://go.nrwl.io/angular-enterprise-monorepo-patterns-new-book)
+
 ## Community 
+
+- [Nrwl Slack workspace](https://nrwlcommunity.slack.com/join/shared_invite/zt-ffstv0dy-wM2b~sYa_X7R8wXN02l2kA#/)
+- 
 
