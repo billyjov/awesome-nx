@@ -20,6 +20,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Articles](#articles)
 - [Videos](#videos)
+- [Courses](#courses)
 - [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Books](#books)
@@ -29,11 +30,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Articles 
 
 - [Official Nrwl Nx Blog](https://blog.nrwl.io/)
+- [DEV Community articles ](https://dev.to/nx)
 
 ## Videos
 
 - [Official Nrwl Nx Youtube channel](https://www.youtube.com/channel/UCF8luR7ORJTCwSNA9yZksCw)
+- [Architecture for Huge Angular Based Enterprise](https://www.youtube.com/watch?v=q4XmAy6_ucw)
 
+
+## Courses 
+
+- [Workshop: Enterprise Angular applications with NgRx and Nx](https://duncanhunter.gitbook.io/enterprise-angular-applications-with-ngrx-and-nx/)
 
 ## Plugins 
 
@@ -51,5 +58,4 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Community 
 
 - [Nrwl Slack workspace](https://nrwlcommunity.slack.com/join/shared_invite/zt-ffstv0dy-wM2b~sYa_X7R8wXN02l2kA#/)
-- 
 
