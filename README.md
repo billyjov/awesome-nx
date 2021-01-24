@@ -16,9 +16,18 @@
 <a href="https://nx.dev/">Nx</a> is a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft.
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
+## Current Nx version
+
+[![npm version](https://badge.fury.io/js/nx.svg)](https://www.npmjs.com/~nrwl)
+
+
 ## Contents
 
 - [Articles](#articles)
+  - [Angular](#angular)
+  - [Ionic](#ionic)
+  - [Node](#node)
+  - [React](#react)
 - [Videos](#videos)
 - [Courses](#courses)
 - [Plugins](#plugins)
@@ -31,31 +40,64 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Official Nrwl Nx Blog](https://blog.nrwl.io/)
 - [DEV Community articles ](https://dev.to/nx)
+- [The Shell Library patterns with Nx and Monorepo Architectures](https://indepth.dev/posts/1117/the-shell-library-patterns-with-nx-and-monorepo-architectures)
+- [Deploying Nx monorepos to Netlify](https://www.netlify.com/blog/2020/04/21/deploying-nx-monorepos-to-netlify/)
+- [Simplify the development life cycle with Nx, a monorepo tool](https://medium.com/lapis/adapting-monorepo-with-nx-ionic-nest-aws-serverless-gitlab-ci-a7d7a34f9070)
+
+### Angular
+
+- [The ultimate migration guide to angular-eslint, ESLint and Nx 11](https://dev.to/this-is-angular/the-ultimate-migration-guide-to-angular-eslint-eslint-and-nx-11-1eh2)
+- [Code-sharing made easy in a full-stack app with Nx, Angular, and NestJS](https://indepth.dev/posts/1247/code-sharing-made-easy-in-a-full-stack-app-with-nx-angular-and-nestjs)
+- [Using Module Federation with Monorepos and Angular](https://www.angulararchitects.io/aktuelles/using-module-federation-with-monorepos-and-angular/)
+- [Creating an ng add Schematic for an Nx Plugin](https://dev.to/devinshoemaker/creating-an-ng-add-schematic-for-an-nx-plugin-309a)
+- [Running Nx Affected Commands in GitHub Actions](https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6)
+
+### Ionic
+- [How to integrate Ionic in Nrwl/Nx](https://medium.com/@eric.jeker/how-to-integrate-ionic-in-nrwl-nx-3493fcb7e85e)
+
+### Node
+- [Building Node Apps with Nx Dev Tools](https://blog.nrwl.io/building-node-applications-with-nx-dev-tools-f41035f771ae)
+
+### React
+
+- [Developing Ionic React Apps in an Nx Workspace with @nxtend/ionic-react](https://dev.to/devinshoemaker/developing-ionic-react-apps-in-an-nx-workspace-with-nxtend-ionic-react-47a5)
+- [High Quality React apps with Nx & Cypress](https://cypress.io/blog/2020/04/14/high-quality-react-apps-with-nx-cypress/)
+- [Nx Brings High-Quality CLI Tooling to React](https://dev.to/devinshoemaker/nx-brings-high-quality-cli-tooling-to-react-1801)
+
 
 ## Videos
 
 - [Official Nrwl Nx Youtube channel](https://www.youtube.com/channel/UCF8luR7ORJTCwSNA9yZksCw)
 - [Architecture for Huge Angular Based Enterprise](https://www.youtube.com/watch?v=q4XmAy6_ucw)
+- [Youtube playlist about Nx Workspaces](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PALZ8Zf0-9lBTRn1Rq0siXF)
 
 
 ## Courses 
 
-- [Workshop: Enterprise Angular applications with NgRx and Nx](https://duncanhunter.gitbook.io/enterprise-angular-applications-with-ngrx-and-nx/)
+- [Workshop: Enterprise Angular applications with NgRx and Nx (Free)](https://duncanhunter.gitbook.io/enterprise-angular-applications-with-ngrx-and-nx/)
+- [Nx Workspaces (by Nrwl) - Introduction to Using an Nx Monorepo (Free)](https://nxplaybook.com/p/nx-workspaces)
+- [Advanced Nx Workspaces (by Nrwl)](https://nxplaybook.com/p/advanced-nx-workspaces)
+- [Play by Play: Building Enterprise Angular Apps with Nx on pluralsight](https://www.pluralsight.com/courses/play-by-play-building-enterprise-angular-apps-with-nx)
+- [Getting started with Angular and Nrwl Nx](https://www.udemy.com/course/building-enterprise-angular-apps-with-nx/)
 
 ## Plugins 
 
 - [Nx Community Plugins](https://nx.dev/nx-community)
+- [WallabyJS integration](https://wallabyjs.com/docs/integration/nrwl.html)
 
 ## Open Source Apps
 
 - [Official examples repo for nx workspace](https://github.com/nrwl/nx-examples)
 - [Exemplary real world application built with Angular 10+, NgRx 10+, nrwl/nx 10+](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app)
+- [Custom Nx workspace schematic to build a custom 'state' library.](https://gist.github.com/ThomasBurleson/30e45a6bc61f0d53fe07045d69b548e6)
 
 ## Books
 
 - [Enterprise Monorepo Angular Patterns](https://go.nrwl.io/angular-enterprise-monorepo-patterns-new-book)
+- [Effective React Development with Nx](https://connect.nrwl.io/app/books/effective-react-with-nx)
 
 ## Community 
 
 - [Nrwl Slack workspace](https://nrwlcommunity.slack.com/join/shared_invite/zt-ffstv0dy-wM2b~sYa_X7R8wXN02l2kA#/)
+- [Nrwl Community Gitter](https://gitter.im/nrwl-nx/community)
 
