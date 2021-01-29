@@ -43,6 +43,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [The Shell Library patterns with Nx and Monorepo Architectures](https://indepth.dev/posts/1117/the-shell-library-patterns-with-nx-and-monorepo-architectures)
 - [Deploying Nx monorepos to Netlify](https://www.netlify.com/blog/2020/04/21/deploying-nx-monorepos-to-netlify/)
 - [Simplify the development life cycle with Nx, a monorepo tool](https://medium.com/lapis/adapting-monorepo-with-nx-ionic-nest-aws-serverless-gitlab-ci-a7d7a34f9070)
+- [Migrating from Lerna to Nx: Better Dev Ergonomics + Much Faster Build Times](https://blog.nrwl.io/migrating-from-lerna-to-nx-better-dev-ergonomics-much-faster-build-times-da76ff14ccbb)
 
 ### Angular
 
