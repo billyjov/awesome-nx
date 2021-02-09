@@ -44,6 +44,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Deploying Nx monorepos to Netlify](https://www.netlify.com/blog/2020/04/21/deploying-nx-monorepos-to-netlify/)
 - [Simplify the development life cycle with Nx, a monorepo tool](https://medium.com/lapis/adapting-monorepo-with-nx-ionic-nest-aws-serverless-gitlab-ci-a7d7a34f9070)
 - [Migrating from Lerna to Nx: Better Dev Ergonomics + Much Faster Build Times](https://blog.nrwl.io/migrating-from-lerna-to-nx-better-dev-ergonomics-much-faster-build-times-da76ff14ccbb)
+- [Integrating a Spring Boot application inside a Nx workspace](https://www.linkedin.com/pulse/integrating-spring-boot-application-inside-nx-workspace-tine-kondo/)
 
 ### Angular
 
