@@ -24,19 +24,26 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Contents
 
 - [Articles](#articles)
+  - [General](#general)
   - [Angular](#angular)
   - [Ionic](#ionic)
   - [Node](#node)
   - [React](#react)
+  - [Spring Boot](#spring-boot)
+  - [CI/CD & Deployment](#ci/cd-&-deployment)
+
 - [Videos](#videos)
 - [Courses](#courses)
 - [Plugins](#plugins)
 - [Open Source Apps](#open-source-apps)
 - [Books](#books)
+- [Experience report](#experience-report)
 - [Community](#community)
 
 
 ## Articles 
+
+### General
 
 - [Official Nrwl Nx Blog](https://blog.nrwl.io/)
 - [DEV Community articles ](https://dev.to/nx)
@@ -44,9 +51,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Deploying Nx monorepos to Netlify](https://www.netlify.com/blog/2020/04/21/deploying-nx-monorepos-to-netlify/)
 - [Simplify the development life cycle with Nx, a monorepo tool](https://medium.com/lapis/adapting-monorepo-with-nx-ionic-nest-aws-serverless-gitlab-ci-a7d7a34f9070)
 - [Migrating from Lerna to Nx: Better Dev Ergonomics + Much Faster Build Times](https://blog.nrwl.io/migrating-from-lerna-to-nx-better-dev-ergonomics-much-faster-build-times-da76ff14ccbb)
-- [Integrating a Spring Boot application inside a Nx workspace](https://www.linkedin.com/pulse/integrating-spring-boot-application-inside-nx-workspace-tine-kondo/)
 
 ### Angular
+
+- [Starting Angular Projects with Nx](https://offering.solutions/blog/articles/2021/01/27/starting-angular-projects-with-nx/)
 
 - [The ultimate migration guide to angular-eslint, ESLint and Nx 11](https://dev.to/this-is-angular/the-ultimate-migration-guide-to-angular-eslint-eslint-and-nx-11-1eh2)
 - [Code-sharing made easy in a full-stack app with Nx, Angular, and NestJS](https://indepth.dev/posts/1247/code-sharing-made-easy-in-a-full-stack-app-with-nx-angular-and-nestjs)
@@ -66,6 +74,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [High Quality React apps with Nx & Cypress](https://cypress.io/blog/2020/04/14/high-quality-react-apps-with-nx-cypress/)
 - [Nx Brings High-Quality CLI Tooling to React](https://dev.to/devinshoemaker/nx-brings-high-quality-cli-tooling-to-react-1801)
 
+### Spring Boot 
+
+- [Integrating a Spring Boot application inside a Nx workspace](https://www.linkedin.com/pulse/integrating-spring-boot-application-inside-nx-workspace-tine-kondo/)
+
+### CI/CD & Deployment
+
+- [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
 
 ## Videos
 
@@ -81,6 +96,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Advanced Nx Workspaces (by Nrwl)](https://nxplaybook.com/p/advanced-nx-workspaces)
 - [Play by Play: Building Enterprise Angular Apps with Nx on pluralsight](https://www.pluralsight.com/courses/play-by-play-building-enterprise-angular-apps-with-nx)
 - [Getting started with Angular and Nrwl Nx](https://www.udemy.com/course/building-enterprise-angular-apps-with-nx/)
+- [Scale React Development with Nx](https://egghead.io/playlists/scale-react-development-with-nx-4038)
 
 ## Plugins 
 
@@ -97,6 +113,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Enterprise Monorepo Angular Patterns](https://go.nrwl.io/angular-enterprise-monorepo-patterns-new-book)
 - [Effective React Development with Nx](https://connect.nrwl.io/app/books/effective-react-with-nx)
+
+## Experience report
+
+- [Scaling our Largest Angular Platform with Nx](https://medium.com/8451/scaling-our-largest-angular-platform-with-nx-8aa70ee3619f)
 
 ## Community 
 
