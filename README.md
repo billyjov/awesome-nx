@@ -60,7 +60,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Code-sharing made easy in a full-stack app with Nx, Angular, and NestJS](https://indepth.dev/posts/1247/code-sharing-made-easy-in-a-full-stack-app-with-nx-angular-and-nestjs)
 - [Using Module Federation with Monorepos and Angular](https://www.angulararchitects.io/aktuelles/using-module-federation-with-monorepos-and-angular/)
 - [Creating an ng add Schematic for an Nx Plugin](https://dev.to/devinshoemaker/creating-an-ng-add-schematic-for-an-nx-plugin-309a)
-- [Running Nx Affected Commands in GitHub Actions](https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6)
+- [Angular Libraries with Nx for Enterprise Apps](https://dev.to/thisdotmedia/angular-libraries-with-nx-for-enterprise-apps-395h)
 
 ### Ionic
 - [How to integrate Ionic in Nrwl/Nx](https://medium.com/@eric.jeker/how-to-integrate-ionic-in-nrwl-nx-3493fcb7e85e)
@@ -81,6 +81,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### CI/CD & Deployment
 
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
+- [Running Nx Affected Commands in GitHub Actions](https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6)
+
 
 ## Videos
 
