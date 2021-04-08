@@ -54,8 +54,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Angular
 
-- [Starting Angular Projects with Nx](https://offering.solutions/blog/articles/2021/01/27/starting-angular-projects-with-nx/)
 
+- [Angular Universal server-side rendering (SSR) in Nrwl Nx](https://jareddesign.medium.com/angular-universal-server-side-rendering-ssr-in-nrwl-nx-fdb94d7953e)
+- [Starting Angular Projects with Nx](https://offering.solutions/blog/articles/2021/01/27/starting-angular-projects-with-nx/)
 - [The ultimate migration guide to angular-eslint, ESLint and Nx 11](https://dev.to/this-is-angular/the-ultimate-migration-guide-to-angular-eslint-eslint-and-nx-11-1eh2)
 - [Code-sharing made easy in a full-stack app with Nx, Angular, and NestJS](https://indepth.dev/posts/1247/code-sharing-made-easy-in-a-full-stack-app-with-nx-angular-and-nestjs)
 - [Using Module Federation with Monorepos and Angular](https://www.angulararchitects.io/aktuelles/using-module-federation-with-monorepos-and-angular/)
@@ -70,6 +71,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### React
 
+- [How to Add react-intl to an Nx React App?](https://emilyxiong.medium.com/how-to-add-react-intl-to-an-nx-react-app-ab4c998af1c9)
+- [Nx, React & Tailwind made Simple: New and Improved! (v2)](https://kuccello.medium.com/nx-react-tailwind-made-simple-new-and-improved-v2-d79f8b173622)
 - [Developing Ionic React Apps in an Nx Workspace with @nxtend/ionic-react](https://dev.to/devinshoemaker/developing-ionic-react-apps-in-an-nx-workspace-with-nxtend-ionic-react-47a5)
 - [High Quality React apps with Nx & Cypress](https://cypress.io/blog/2020/04/14/high-quality-react-apps-with-nx-cypress/)
 - [Nx Brings High-Quality CLI Tooling to React](https://dev.to/devinshoemaker/nx-brings-high-quality-cli-tooling-to-react-1801)
@@ -79,6 +82,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Integrating a Spring Boot application inside a Nx workspace](https://www.linkedin.com/pulse/integrating-spring-boot-application-inside-nx-workspace-tine-kondo/)
 
 ### CI/CD & Deployment
+
+**Azure CI**
+- [Publishing Nx Monorepo Test Results in Azure CI Pipeline](https://medium.com/rupesh-tiwari/publishing-nx-monorepo-test-results-in-azure-ci-pipeline-4f73abd983d5)
+- [Publishing Merged Code Coverage Report of Nx Workspace in Azure CI Pipeline](https://medium.com/rupesh-tiwari/publishing-merged-code-coverage-report-of-nx-workspace-in-azure-ci-pipeline-70b44dbff1d9)
+
+**Github Actions**
 
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
 - [Running Nx Affected Commands in GitHub Actions](https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6)
