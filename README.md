@@ -51,6 +51,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Share Components across Front Ends frameworks using Nx and Web Components](https://dev.to/crocsx/share-components-across-front-ends-frameworks-using-nx-and-web-components-40jf)
 - [Getting started with Svelte, Tailwind, and Nrwl NX](https://dev.to/dsebastien/getting-started-with-svelte-tailwind-and-nrwl-nx-17fc)
 - [Automating your package deployment in an Nx Monorepo with Changeset](https://dev.to/jmcdo29/automating-your-package-deployment-in-an-nx-monorepo-with-changeset-4em8)
+- [Getting Started with Monorepo with Nx Nrwl](https://medium.com/rupesh-tiwari/getting-started-with-monorepo-with-nx-nrwl-bce4ad76a8e9)
+- [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://dev.to/rupeshtiwari/fixing-nrwl-nx-monorepo-workspace-dependency-graph-error-4eg0)
+- 
 
 ### Angular
 
@@ -61,6 +64,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Using Module Federation with Monorepos and Angular](https://www.angulararchitects.io/aktuelles/using-module-federation-with-monorepos-and-angular/)
 - [Creating an ng add Schematic for an Nx Plugin](https://dev.to/devinshoemaker/creating-an-ng-add-schematic-for-an-nx-plugin-309a)
 - [Angular Libraries with Nx for Enterprise Apps](https://dev.to/thisdotmedia/angular-libraries-with-nx-for-enterprise-apps-395h)
+- [Introduction to building an Angular app with Nx Workspace](https://www.thisdot.co/blog/introduction-to-building-an-angular-app-with-nx-workspace)
+- [Working with Angular i18n inside NRWL NX workspace](https://blog.davidjs.com/2021/03/working-with-angular-i18n-inside-nrwl-nx-workspace/)
 
 ### Ionic
 
@@ -98,6 +103,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
 - [Running Nx Affected Commands in GitHub Actions](https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6)
+
+**Circle CI**
+
+- [A Orb which includes helpful commands for running Nx commands in the CI](https://circleci.com/developer/orbs/orb/nrwl/nx)
 
 ## Videos
 
