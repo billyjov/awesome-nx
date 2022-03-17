@@ -125,7 +125,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Plugins
 
-- [Nx Community Plugins](https://nx.dev/nx-community)
+- [Nx Community Plugins](https://nx.dev/community)
 - [WallabyJS integration](https://wallabyjs.com/docs/integration/nrwl.html)
 
 ## Open Source Apps
