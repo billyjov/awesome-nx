@@ -53,7 +53,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Automating your package deployment in an Nx Monorepo with Changeset](https://dev.to/jmcdo29/automating-your-package-deployment-in-an-nx-monorepo-with-changeset-4em8)
 - [Getting Started with Monorepo with Nx Nrwl](https://medium.com/rupesh-tiwari/getting-started-with-monorepo-with-nx-nrwl-bce4ad76a8e9)
 - [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://dev.to/rupeshtiwari/fixing-nrwl-nx-monorepo-workspace-dependency-graph-error-4eg0)
-- 
+- [Set up Tailwind CSS with Angular in an Nx workspace](https://dev.to/nx/set-up-tailwind-css-with-angular-in-an-nx-workspace-1km4)
+
 
 ### Angular
 
@@ -78,7 +79,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### NestJS
 
 - [Introduction to Building API's with NestJS and Nrwl Nx](https://dev.to/beeman/introduction-to-building-api-s-with-nestjs-and-nrwl-nx-1l2b)
--
+- [Share Interfaces in Angular and NestJS with Nx](https://dev.to/prestonjlamb/share-interfaces-in-angular-and-nestjs-with-nx-1alj)
 
 ### React
 
@@ -101,6 +102,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 **Github Actions**
 
+- []()
+- [Using NX Distributed Execution In Github Actions CI](https://dev.to/elpddev/using-nx-distributed-execution-in-github-actions-ci-3b7f)
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
 - [Running Nx Affected Commands in GitHub Actions](https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6)
 
