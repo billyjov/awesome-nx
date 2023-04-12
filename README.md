@@ -102,7 +102,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 **Github Actions**
 
-- []()
+- [Automatically Migrate on new NX Versions](https://github.com/marketplace/actions/nx-migration-action)
 - [Using NX Distributed Execution In Github Actions CI](https://dev.to/elpddev/using-nx-distributed-execution-in-github-actions-ci-3b7f)
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
 - [Running Nx Affected Commands in GitHub Actions](https://dev.to/devinshoemaker/running-nx-affected-commands-in-github-actions-56f6)
