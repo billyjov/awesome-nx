@@ -54,6 +54,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Getting Started with Monorepo with Nx Nrwl](https://medium.com/rupesh-tiwari/getting-started-with-monorepo-with-nx-nrwl-bce4ad76a8e9)
 - [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://dev.to/rupeshtiwari/fixing-nrwl-nx-monorepo-workspace-dependency-graph-error-4eg0)
 - [Set up Tailwind CSS with Angular in an Nx workspace](https://dev.to/nx/set-up-tailwind-css-with-angular-in-an-nx-workspace-1km4)
+- [Scaling a Javascript Monorepo With Nx](https://semaphoreci.com/blog/javascript-monorepo-nx)
 
 
 ### Angular
