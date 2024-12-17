@@ -94,6 +94,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Integrating a Spring Boot application inside a Nx workspace](https://www.linkedin.com/pulse/integrating-spring-boot-application-inside-nx-workspace-tine-kondo/)
 
+### Rust
+
+- [Monodon - create Rust applications and libraries with nx](https://nx.dev/showcase/example-repos/add-rust)
+
 ### CI/CD & Deployment
 
 **Azure CI**
